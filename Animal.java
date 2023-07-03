@@ -1,6 +1,7 @@
 public class Animal {
 
 				private String name;
+				private String type;
 
 				public Animal(String name) {
 								this.name = name;
