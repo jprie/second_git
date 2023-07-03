@@ -2,7 +2,7 @@ public class HelloWorld {
 
 public static void main(String[] args) {
 	
-				System.out.println("Hello Animal");
+				System.out.println("Hello Hotfix");
 
 				var animals = { new Cat("Mia"), new Dog("Ami") };
 
