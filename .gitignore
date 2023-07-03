@@ -1,0 +1,8 @@
+info.log
+
+*.o
+*.bin
+*.exe
+
+*.so
+*.dll
