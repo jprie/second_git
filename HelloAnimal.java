@@ -7,7 +7,7 @@ public static void main(String[] args) {
 				var animals = { new Cat("Mutzi"), new Dog("Ami") };
 
 				for (var animal : animals) {
-					System.out.println(animal.getName());
+					System.out.println(animal.getName() + "\n");
 				
 				}
 
